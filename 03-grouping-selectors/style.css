@@ -1,0 +1,13 @@
+*{
+    font-family: Helvetica "Times Roman" sans-serif;
+    font-size: 28px;
+}
+.me{
+    background-color: black;
+    color: white;
+    border-color: azure;
+}
+
+.no{
+    background-color: yellow;
+}
